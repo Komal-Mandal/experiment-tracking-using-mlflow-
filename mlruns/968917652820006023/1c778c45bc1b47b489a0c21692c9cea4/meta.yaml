@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/968917652820006023/1c778c45bc1b47b489a0c21692c9cea4/artifacts
+end_time: 1766550923622
+entry_point_name: ''
+experiment_id: '968917652820006023'
+lifecycle_stage: active
+run_id: 1c778c45bc1b47b489a0c21692c9cea4
+run_name: incongruous-wasp-946
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766550922842
+status: 3
+tags: []
+user_id: Komal

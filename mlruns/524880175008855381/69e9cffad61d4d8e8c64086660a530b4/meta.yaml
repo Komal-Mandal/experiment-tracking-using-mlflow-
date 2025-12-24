@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Komal/Desktop/exp-tracking/mlruns/524880175008855381/69e9cffad61d4d8e8c64086660a530b4/artifacts
+end_time: 1766551552147
+entry_point_name: ''
+experiment_id: '524880175008855381'
+lifecycle_stage: active
+run_id: 69e9cffad61d4d8e8c64086660a530b4
+run_name: stately-ant-329
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766551551701
+status: 3
+tags: []
+user_id: Komal

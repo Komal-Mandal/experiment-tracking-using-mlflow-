@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Komal/Desktop/exp-tracking/mlruns/467775927215121168/d530553c16da4ca19e03744ef77fec51/artifacts
+end_time: 1766550831576
+entry_point_name: ''
+experiment_id: '467775927215121168'
+lifecycle_stage: active
+run_id: d530553c16da4ca19e03744ef77fec51
+run_name: stately-grouse-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766550831159
+status: 3
+tags: []
+user_id: Komal

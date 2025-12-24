@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Komal/Desktop/exp-tracking/mlruns/467775927215121168/c0b81e5240ac4315b3c0ba102df5a011/artifacts
+end_time: 1766550795401
+entry_point_name: ''
+experiment_id: '467775927215121168'
+lifecycle_stage: active
+run_id: c0b81e5240ac4315b3c0ba102df5a011
+run_name: intelligent-cub-662
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766550794926
+status: 4
+tags: []
+user_id: Komal

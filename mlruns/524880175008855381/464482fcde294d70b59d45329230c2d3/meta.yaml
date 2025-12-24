@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Komal/Desktop/exp-tracking/mlruns/524880175008855381/464482fcde294d70b59d45329230c2d3/artifacts
+end_time: 1766552587849
+entry_point_name: ''
+experiment_id: '524880175008855381'
+lifecycle_stage: active
+run_id: 464482fcde294d70b59d45329230c2d3
+run_name: able-mouse-156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766552578653
+status: 3
+tags: []
+user_id: Komal

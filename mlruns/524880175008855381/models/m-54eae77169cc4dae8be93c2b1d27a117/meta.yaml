@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Komal/Desktop/exp-tracking/mlruns/524880175008855381/models/m-54eae77169cc4dae8be93c2b1d27a117/artifacts
+creation_timestamp: 1766552579132
+experiment_id: '524880175008855381'
+last_updated_timestamp: 1766552587828
+model_id: m-54eae77169cc4dae8be93c2b1d27a117
+model_type: null
+name: Random-Forest-Model
+source_run_id: 464482fcde294d70b59d45329230c2d3
+status: 2
+status_message: null
