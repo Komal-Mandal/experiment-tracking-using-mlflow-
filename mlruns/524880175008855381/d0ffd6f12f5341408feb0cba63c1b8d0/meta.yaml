@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Komal/Desktop/exp-tracking/mlruns/524880175008855381/d0ffd6f12f5341408feb0cba63c1b8d0/artifacts
+end_time: 1766557283044
+entry_point_name: ''
+experiment_id: '524880175008855381'
+lifecycle_stage: active
+run_id: d0ffd6f12f5341408feb0cba63c1b8d0
+run_name: placid-loon-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766557277070
+status: 3
+tags: []
+user_id: Komal

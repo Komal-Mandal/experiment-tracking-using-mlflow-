@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/642981907133212566/fdf1a8cb52074b718977d18c6007884c/artifacts
+end_time: 1766557305117
+entry_point_name: ''
+experiment_id: '642981907133212566'
+lifecycle_stage: active
+run_id: fdf1a8cb52074b718977d18c6007884c
+run_name: awesome-skink-436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766557298687
+status: 3
+tags: []
+user_id: Komal
